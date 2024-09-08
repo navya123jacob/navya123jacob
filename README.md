@@ -23,7 +23,7 @@
 - REST APIs, JWT, TypeScript, MongoDB
 
 #### Databases:
-- MongoDB, Redis, SQL, Firebase
+- MongoDB, SQL, Firebase
 
 #### Cloud & Version Control:
 - AWS Services (EC2)
@@ -40,7 +40,7 @@
 ### 📫 Connect with Me:
 <p align="left">
     <a href="https://linkedin.com/in/navyatjacob" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/navyatjacob/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/navya_t_jacob/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
     <a href="https://leetcode.com/navyatjacob/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
