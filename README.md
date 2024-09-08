@@ -49,9 +49,11 @@
 ### 🔥 GitHub Stats:
 <p align="center">
   <a href="https://github.com/navyatjacob">
-    <img src="https://github-readme-stats.vercel.app/api?username=navyatjacob&show_icons=true&hide_title=true&hide=prs" alt="Navya's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navyatjacob&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Navya's GitHub Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=navyatjacob&hide_border=true" alt="Navya's GitHub Streak" />
   </a>
 </p>
+
 
 ---
 
